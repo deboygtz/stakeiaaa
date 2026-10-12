@@ -1,0 +1,36 @@
+# Duplicatas geradas pelo WebCopy (arquivos -1 ate -8)
+assets/*-1.js
+assets/*-2.js
+assets/*-3.js
+assets/*-4.js
+assets/*-5.js
+assets/*-6.js
+assets/*-7.js
+assets/*-8.js
+assets/*-1.css
+assets/*-2.css
+assets/*-3.css
+assets/*-4.css
+assets/*-5.css
+assets/*-6.css
+assets/*-7.css
+assets/*-8.css
+css2-*
+
+# Fontes/CSS duplicados do font-awesome
+ajax/libs/font-awesome/6.4.0/css/all.min-*.css
+ajax/libs/font-awesome/6.4.0/webfonts/*-1.*
+ajax/libs/font-awesome/6.4.0/webfonts/*-2.*
+ajax/libs/font-awesome/6.4.0/webfonts/*-3.*
+ajax/libs/font-awesome/6.4.0/webfonts/*-4.*
+ajax/libs/font-awesome/6.4.0/webfonts/*-5.*
+ajax/libs/font-awesome/6.4.0/webfonts/*-6.*
+ajax/libs/font-awesome/6.4.0/webfonts/*-7.*
+ajax/libs/font-awesome/6.4.0/webfonts/*-8.*
+
+# Node
+node_modules/
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,132 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\stalkeia.website\scripts\utms\latest-8.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\stalkeia.website\ajax\libs\font-awesome\6.4.0\css\all.min-8.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\stalkeia.website\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400-8.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\stalkeia.website\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400-8.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\stalkeia.website\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400-8.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\stalkeia.website\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400-8.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\stalkeia.website\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900-8.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\stalkeia.website\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900-8.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\stalkeia.website\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility-8.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\stalkeia.website\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility-8.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\stalkeia.website\css2-16
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;600&display=swap
+File Name: C:\Downloaded Web Sites\stalkeia.website\css2-17
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\stalkeia.website\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg-8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\stalkeia.website\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg-8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\stalkeia.website\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg-8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\stalkeia.website\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg-8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\stalkeia.website\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT-8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\stalkeia.website\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT-8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaammT.ttf
+File Name: C:\Downloaded Web Sites\stalkeia.website\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaammT-8.ttf
+Content Type: font/ttf
+
+Uri: https://stalkeia.website/assets/chunk-EPOLDU6W-CkoexLYk.js
+File Name: C:\Downloaded Web Sites\stalkeia.website\assets\chunk-EPOLDU6W-CkoexLYk-8.js
+Content Type: application/x-javascript
+
+Uri: https://stalkeia.website/assets/context-DVPZRWQf.js
+File Name: C:\Downloaded Web Sites\stalkeia.website\assets\context-DVPZRWQf-8.js
+Content Type: application/x-javascript
+
+Uri: https://stalkeia.website/assets/entry.client-DD9rnkTc.js
+File Name: C:\Downloaded Web Sites\stalkeia.website\assets\entry.client-DD9rnkTc-8.js
+Content Type: application/x-javascript
+
+Uri: https://stalkeia.website/assets/funnel-extensions.js?v=20260511-vsl-fix2
+File Name: C:\Downloaded Web Sites\stalkeia.website\assets\funnel-extensions-8.js
+Content Type: application/x-javascript
+
+Uri: https://stalkeia.website/assets/gtm-pageview.js
+File Name: C:\Downloaded Web Sites\stalkeia.website\assets\gtm-pageview-8.js
+Content Type: application/x-javascript
+
+Uri: https://stalkeia.website/assets/manifest-958455cb.js
+File Name: C:\Downloaded Web Sites\stalkeia.website\assets\manifest-958455cb-8.js
+Content Type: application/x-javascript
+
+Uri: https://stalkeia.website/assets/root-VdaBH0Ih.js
+File Name: C:\Downloaded Web Sites\stalkeia.website\assets\root-VdaBH0Ih-8.js
+Content Type: application/x-javascript
+
+Uri: https://stalkeia.website/assets/root-zQuPsh3d.css
+File Name: C:\Downloaded Web Sites\stalkeia.website\assets\root-zQuPsh3d-8.css
+Content Type: text/css
+
+Uri: https://stalkeia.website/assets/url-interceptor.js
+File Name: C:\Downloaded Web Sites\stalkeia.website\assets\url-interceptor-8.js
+Content Type: application/x-javascript
+
+Uri: https://stalkeia.website/assets/utm-ClCK1WqV.js
+File Name: C:\Downloaded Web Sites\stalkeia.website\assets\utm-ClCK1WqV-8.js
+Content Type: application/x-javascript
+
+Uri: https://stalkeia.website/cta/?username=ruanrlkup
+File Name: C:\Downloaded Web Sites\stalkeia.website\cta\index.htm
+Content Type: text/html
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516
+File Name: C:\Downloaded Web Sites\stalkeia.website\beacon.min.js\v8c78df7c7c0f484497ecbca7046644da1771523124516-8
+Content Type: text/javascript
+
+es/screenshots/cf2.png
+File Name: C:\Downloaded Web Sites\stalkeia.website\images\screenshots\cf2.png
+Content Type: image/png
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516
+File Name: C:\Downloaded Web Sites\stalkeia.website\beacon.min.js\v8c78df7c7c0f484497ecbca7046644da1771523124516
+Content Type: text/javascript
+
